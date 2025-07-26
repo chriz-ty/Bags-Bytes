@@ -52,7 +52,7 @@ const Contact = () => {
 
           {/* Contact Form */}
           <div className="bg-white rounded-xl shadow-md p-8">
-            <h2 className="text-2xl font-semibold mb-6">Send us a Message</h2>
+            <h2 className="text-2xl font-semibold mb-6">Let's Connect!!</h2>
             <form className="space-y-6">
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-1">
