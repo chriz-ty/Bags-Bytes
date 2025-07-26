@@ -29,7 +29,7 @@ const Contact = () => {
                 <div>
                   <p className="font-medium">Email</p>
                   <a href="mailto:contact@bagsandbytes.com" className="text-gray-600 hover:text-emerald-600">
-                    contact@bagsandbytes.com
+                    bagsandbytes@gmail.com
                   </a>
                 </div>
               </div>
